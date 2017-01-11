@@ -18,7 +18,7 @@ Allows the use of a special short code **[contentgems]** for embedding ContentGe
 
 ## Installation
 
-Copy the folder "cg_wordpress_shortcode" into the /wp-content/plugins/ folder. Then go to the Plugins area of the Admin and activate.
+Copy the folder "cg_wordpress_shortcode" into the /wp-content/plugins/ folder. Then go to the Plugins area of the Admin and activate. You can download the newest version of the plugin code [here](https://github.com/ContentGems/cg_wordpress_shortcode/releases).
 
 ## Screenshots
 
