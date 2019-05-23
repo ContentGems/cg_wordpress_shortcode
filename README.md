@@ -19,6 +19,8 @@ Allows the use of a special short code **[contentgems]** for embedding ContentGe
 ## Changelog
 
 1.0 - Initial release.
+1.1 - Updated website widget asset version to current.
+1.2 - Updated documentation
 
 ## Frequently Asked Questions
 
@@ -30,4 +32,4 @@ Allows the use of a special short code **[contentgems]** for embedding ContentGe
 * Plugin Name: ContentGems
 * Author URI: https://contentgems.com
 * Author: Dakota J Lightning
-* Version: 1.0
+* Version: 1.2
