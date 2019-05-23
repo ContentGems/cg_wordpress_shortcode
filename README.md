@@ -8,7 +8,7 @@ Allows the use of a special short code **[contentgems]** for embedding ContentGe
 
 ## Installation
 
-1. Download a ZIP file of the [most recently released source code](https://github.com/ContentGems/cg_wordpress_shortcode/releases).
+1. Download a ZIP file with the [latest release](https://github.com/ContentGems/cg_wordpress_shortcode/releases/latest).
 2. Unzip and copy the folder "cg_wordpress_shortcode" into the /wp-content/plugins/ folder in your Wordpress installation. 
 3. In your Wordpress Admin go to the Plugins area and activate the ContentGems plugin.
 
