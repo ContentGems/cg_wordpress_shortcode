@@ -1,16 +1,6 @@
 # ContentGems WordPress Shortcode Plugin
 
-Contributors: Dakota J Lightning
-Plugin Name: ContentGems
-Author URI: https://contentgems.com
-Author: Dakota J Lightning
-Version: 1.0
-
-Allows the use of a special short code **[contentgems]** for embedding ContentGems Feeds.
-
-## Description
-
-Allows the use of a special short code **[contentgems]** for embedding ContentGems feeds. It's best to grab the shortcode from the ContentGems Feed Manager.
+Allows the use of a special short code **[contentgems]** for embedding ContentGems articles in your Wordpress site.
 
 **Example:**
 
@@ -18,7 +8,9 @@ Allows the use of a special short code **[contentgems]** for embedding ContentGe
 
 ## Installation
 
-Copy the folder "cg_wordpress_shortcode" into the /wp-content/plugins/ folder. Then go to the Plugins area of the Admin and activate. You can download the newest version of the plugin code [here](https://github.com/ContentGems/cg_wordpress_shortcode/releases).
+1. Download a ZIP file of the [most recently released source code](https://github.com/ContentGems/cg_wordpress_shortcode/releases).
+2. Unzip and copy the folder "cg_wordpress_shortcode" into the /wp-content/plugins/ folder in your Wordpress installation. 
+3. In your Wordpress Admin go to the Plugins area and activate the ContentGems plugin.
 
 ## Screenshots
 
@@ -33,3 +25,9 @@ Copy the folder "cg_wordpress_shortcode" into the /wp-content/plugins/ folder. T
 **What is ContentGems?**
 
 [ContentGems](https://contentgems.com) is a content discovery engine. Everyday, it scans hundreds of thousands of articles from the best online sources and presents you a stream of relevant and timely content.
+
+* Contributors: Dakota J Lightning, Jo Hund
+* Plugin Name: ContentGems
+* Author URI: https://contentgems.com
+* Author: Dakota J Lightning
+* Version: 1.0
